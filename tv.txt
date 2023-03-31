@@ -9,12 +9,6 @@
 0.0.0.0 connecttv.pelmorex.com # weather app tracking
 0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 cpu.samsungelectronics.com
-0.0.0.0 d179kwmlpc4o47.cloudfront.net
-0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
-0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net # app icons in samsung app store
-0.0.0.0 d2tnx644ijgq6i.cloudfront.net
-0.0.0.0 d3mjsomixevyw7.cloudfront.net
-0.0.0.0 d37ju0xanoz6gh.cloudfront.net
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 fkp.samsungcloudsolution.com
 0.0.0.0 fkp.samsungcloudsolution.net
