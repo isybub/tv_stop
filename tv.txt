@@ -33,8 +33,9 @@
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 openapi.samsung.com
 0.0.0.0 osb-apps.samsungqbe.com
-0.0.0.0 osb-krsvc.samsungqbe.com
-0.0.0.0 osb-eusvc.samsungqbe.com
+0.0.0.0 osb-krsvc-v2.samsungqbe.com
+0.0.0.0 osb-eusvc-v2.samsungqbe.com
+0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 osb-v2.samsungqbe.com
 0.0.0.0 osb-apps-v2.samsungqbe.com
@@ -49,6 +50,7 @@
 0.0.0.0 samsungcloudsolution.com
 0.0.0.0 samsungcloudsolution.net
 0.0.0.0 samsungqbe.com
+0.0.0.0 cdn-stv.adgrx.com
 0.0.0.0 sas.samsungcloudsolution.com
 0.0.0.0 sca.samsung.com
 0.0.0.0 sso.internetat.tv # account login
@@ -99,3 +101,12 @@
 0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 scpopenapi.samsungcloud.tv
 0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 osb-auth-ussvc-v2.samsungqbe.com
+0.0.0.0 uimetadata.samsungiotcloud.com
+0.0.0.0 www.ueiwsp.com
+0.0.0.0 osb-tnc-v2-appsacc.samsungqbe.com
+0.0.0.0 gld.push.samsungosp.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
+0.0.0.0 acr-au-prd.samsungcloud.tv
+0.0.0.0 static.doubleclick.net
+0.0.0.0 provisioning-use2.mgmt.aibixby.com
