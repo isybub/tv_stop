@@ -18,12 +18,15 @@
 0.0.0.0 log-1.samsungacr.com
 0.0.0.0 log-2.samsungacr.com
 0.0.0.0 log-3.samsungacr.com
+0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
+0.0.0.0 log-ingestion-ap2.samsungacr.com
 0.0.0.0 log.internetat.tv
 0.0.0.0 musicid.samsungcloudsolution.com
 0.0.0.0 notice.samsungcloudsolution.com
 0.0.0.0 noticecdn.samsungcloudsolution.com
+0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 noticefile.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.net
@@ -33,6 +36,8 @@
 0.0.0.0 osb-krsvc.samsungqbe.com
 0.0.0.0 osb-eusvc.samsungqbe.com
 0.0.0.0 osb.samsungqbe.com
+0.0.0.0 osb-v2.samsungqbe.com
+0.0.0.0 osb-apps-v2.samsungqbe.com
 0.0.0.0 pavv.co.kr
 0.0.0.0 pipeaota.com
 0.0.0.0 premium-videos.telly.com
@@ -79,3 +84,18 @@
 0.0.0.0 samsungosp.com
 0.0.0.0 samsungotn.net # system update check on Samsung UE65RU7455
 0.0.0.0 www.samsungotn.net # required for software update
+0.0.0.0 config.samsungads.com
+0.0.0.0 d7luqmstmj331.cloudfront.net
+0.0.0.0 tvx.adgrx.com
+0.0.0.0 rtb.adgrx.com
+0.0.0.0 tls.samsungqbe.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 api.samsungcloud.com
+0.0.0.0 empdownprd.samsungcloudsolution.com
+0.0.0.0 tv.scdn.co
+0.0.0.0 www.google-analytics.com
+0.0.0.0 osb-ussvc-v2.samsungqbe.com
+0.0.0.0 ocfconnect-shard-ap03-apnortheast2.samsungiotcloud.com
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 scpopenapi.samsungcloud.tv
+0.0.0.0 lcprd1.samsungcloudsolution.net
