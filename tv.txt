@@ -38,6 +38,7 @@
 0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 osb-v2.samsungqbe.com
+0.0.0.0 osb-apps-v2.samsungqbe.com
 0.0.0.0 pavv.co.kr
 0.0.0.0 pipeaota.com
 0.0.0.0 premium-videos.telly.com
@@ -104,6 +105,7 @@
 0.0.0.0 www.ueiwsp.com
 0.0.0.0 osb-tnc-v2-appsacc.samsungqbe.com
 0.0.0.0 gld.push.samsungosp.com
+0.0.0.0 ocfconnect-shard-ap03-apnortheast2.samsungiotcloud.com
 0.0.0.0 noticecdn.samsungcloudsolution.com
 0.0.0.0 acr-au-prd.samsungcloud.tv
 0.0.0.0 static.doubleclick.net
